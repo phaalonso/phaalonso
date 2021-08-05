@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Alonso 🤓
+### Olá! Eu sou Pedro Alonso 🤓
 
 - 🔭 Atualmente estou focando no meu desenvolvimento pessoal e buscando novas oportunidades
 - 🌱 Aprofundando meus conhecimentos sobre Arquitetura de Software!
